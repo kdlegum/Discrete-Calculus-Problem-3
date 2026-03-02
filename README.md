@@ -160,3 +160,7 @@ $$
 where $B_j$ are the Bernoulli numbers (with the convention $B_1 = +\frac{1}{2}$).
 
 There are also a lot of crazy looking solutions on the [Faulhaber's formula Wikipedia page](https://en.wikipedia.org/wiki/Faulhaber%27s_formula).
+
+Update: By complete coincidence, a few great youtube videos about this topic have been uploaded recently which I will share here:
+
+Faulhaber's formula and that linear system we solved is intrisically tied to the Bernoulli numbers, which are also tied to the Riemann Zeta function. Check out how what we derived links to the [Riemann Zeta function's analytic continuation](https://youtu.be/N0Ho0XGuXZs?si=1cPVUEEZ8dvVRikV) and therefore the [distrubution of prime numbers](https://youtu.be/9vs0OpmcjXY?si=rztyi6TdtpBcvqFQ).
